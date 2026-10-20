@@ -46,3 +46,7 @@ with release, security and service evidence returned to the Binary Bit Ops DevOp
 
 ## Contacts
 Project manager: Lelo
+
+## Phase 3 non-production demonstrator
+
+The isolated [Phase 3 demonstrator](phase3-demonstrator/README.md) supports HDE WBS task 3.10. It is a separate, disposable workload for the HDE delivery path and is not the live PHP/MySQL Nexus application hosted on Truehost.
